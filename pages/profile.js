@@ -70,4 +70,5 @@ const Button = styled.div`
   line-height: 1.6;
   color: #fff;
   cursor: pointer;
+  margin-bottom: 2rem;
 `;
